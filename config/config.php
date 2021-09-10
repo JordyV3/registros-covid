@@ -1,6 +1,6 @@
 <?php 
 	
-	const BASE_URL = "http://localhost/plantilla";
+	const BASE_URL = "http://localhost/registros-covid";
 
 	//Zona horaria
 	date_default_timezone_set('America/Guatemala');
